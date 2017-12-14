@@ -1,0 +1,7 @@
+[Core]
+Name = YAML
+Module = yamlpg
+
+[Documentation]
+Description = YAML save/load storage for Errbot
+
